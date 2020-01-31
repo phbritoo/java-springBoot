@@ -1,4 +1,4 @@
-create table oportunidade(
+create table oportunidade (
 
 	id bigint auto_increment not null,
 	nome_prospecto varchar(80) not null,
